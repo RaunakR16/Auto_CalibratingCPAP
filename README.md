@@ -1,2 +1,3 @@
-# Auto_CalibratingCPAP
-My B.tech 4th Year project
+# BreathEZAuto_CalibratingCPAP
+An Auto_CalibratingCPAP
+My B.Tech 4th Year project
